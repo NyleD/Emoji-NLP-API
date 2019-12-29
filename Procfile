@@ -1,0 +1,1 @@
+web: gunicorn emojify:emojify
