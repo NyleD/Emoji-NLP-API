@@ -5,7 +5,7 @@ Sentiment Analysis NLP API to add emojies to everyday texts
 The api takes your text messages and assign's the most relevant emojies to the end of each sentence. It doesn't just assign emojies to differnt words. This is a NLP task, so with the use of LSTM, the algorithm can assign emojies based on the sequence of words and the meaning of the whole sentence.
 
 #### Chat Demo
-To see how it's used in a live chat please check out the below link
+To see how it's used in a live chat please check out
 https://github.com/NyleD/EmojiChat-Backend
 
 #### How to Use It?
