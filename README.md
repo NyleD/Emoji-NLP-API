@@ -18,3 +18,6 @@ A json object, where each value repersents a sentence. Each key is the ith numbe
 - Flask
 - Keras/Tensorflow
 - LSTM
+- Scikit learn
+- Pandas
+- Numpy
